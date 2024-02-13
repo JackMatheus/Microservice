@@ -1,0 +1,20 @@
+2024-02-09 16:58:15,049 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-09 16:59:57,818 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project vendas already exists
+2024-02-09 16:59:57,866 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project vendas already exists
+2024-02-09 16:59:57,869 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project vendas already exists
+2024-02-09 16:59:57,874 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project vendas already exists
+2024-02-09 17:00:32,990 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.jackmatheus:vendas:0.0.1-SNAPSHOT @ C:\Users\J. Mateus\Projects\curso-spring-boot\vendas\pom.xml.
+2024-02-09 17:02:44,932 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vendas/src/main/java
+2024-02-09 17:02:44,935 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vendas/src/main/resources
+2024-02-09 17:02:44,938 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vendas/src/main/resources
+2024-02-09 17:02:44,942 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vendas/src/test/java
+2024-02-09 17:02:46,498 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 174 sec
+2024-02-09 17:04:11,311 [Worker-2: Auto share git projects] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-02-09 17:06:38,066 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-09 17:07:09,984 [Worker-1: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-02-09 17:07:22,651 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for org.springframework.boot:spring-boot-starter-parent:pom:3.0.0
+2024-02-09 17:07:22,662 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for com.github.jackmatheus:vendas:jar:0.0.1-SNAPSHOT
+2024-02-09 17:08:05,224 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-09 17:08:14,459 [Worker-3: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-02-09 17:09:19,337 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-09 17:09:25,045 [Worker-0: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
